@@ -62,6 +62,6 @@ A personal content-sharing and engaging blogging platform.
 If you are looking for a dedicated Junior Backend / Full-Stack Developer, have an interesting project, or want to collaborate, let's talk!
 
 * 📧 **Email:** [dkpriy8402@gmail.com](mailto:dkpriy8402@gmail.com)
-* 📞 **Phone:** +91 6202803515
+* 📞 **Phone:** [+91 6202803515](+91 6202803515)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/dharmeshwar-kumar-priy-694b16216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/dharmeshwar-kumar-priy-694b16216?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🐙 **GitHub:** [https://github.com/Dharmeshwarkumarpriy/Demo](https://github.com/Dharmeshwarkumarpriy/Demo)
